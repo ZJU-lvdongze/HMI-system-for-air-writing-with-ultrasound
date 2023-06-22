@@ -1,1 +1,1 @@
-
+The folder includes the signal acquisition program (labview), the signal processing part (labview and matlab), and the real-time HMI system program (labview combined with matlab and python). The data part is also included, including the collected pMUTs echo signal, the pre-processed training set data, and the result data.
